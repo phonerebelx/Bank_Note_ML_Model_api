@@ -1,0 +1,4 @@
+ For running type this in terminal on the location where users.py exist
+ uvicorn users:app --reload
+ 
+ 
